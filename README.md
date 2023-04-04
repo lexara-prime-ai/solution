@@ -27,7 +27,7 @@
 ![slide 6](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide6.PNG?raw=true)
 
 ### Slide 7
-#### create **java** branch, add, commit **index.java** file
+create **java** branch, add, commit **index.java** file
 ![slide 7](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide7.PNG?raw=true)
 
 ### Slide 8
