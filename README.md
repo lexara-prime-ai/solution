@@ -29,5 +29,17 @@
 ### Slide 8
 ![slide 8](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide8.PNG?raw=true)
 
-#### Slide 9
+### Slide 9
 ![slide 9](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide9.PNG?raw=true)
+
+### Slide 10
+![slide 10](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide10.PNG?raw=true)
+
+### Slide 11
+![slide 11](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide11.PNG?raw=true)
+
+### Slide 12
+![slide 12](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide12.PNG?raw=true)
+
+### Slide 13
+![slide 13](https://github.com/projectfinalaudio/solution/blob/master/screenshots/slide13.PNG?raw=true)
